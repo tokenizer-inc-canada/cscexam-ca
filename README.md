@@ -1,2 +1,2 @@
 # cscexam-ca
-Community maintained repository for [Canadian Securities Course (CSC®) studies and exam preparations](https://cscexam.ca/)
+Community maintained repository for [Canadian Securities Course Sample Exam Questions](https://csccourse.ca/)
